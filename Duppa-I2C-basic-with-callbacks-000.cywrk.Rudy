@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="5f2be1a5-0687-4501-bb8c-cf21cb8211bf">
+<CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf type_name="CyDesigner.Common.ProjMgmt.GUI.CyBookmarkData" version="1">
+<indicators />
+</CyGuid_5f2be1a5-0687-4501-bb8c-cf21cb8211bf>
+</dataGuid>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files\main.c">
+<ExpandedNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Pins</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Analog</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\DMA</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Clocks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Interrupts</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\System</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Directives</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Flash Security</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\cyapicallbacks.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\i2cEncoderLibV2.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\main.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files\i2cEncoderLibV2.c</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files\main.c</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Pins</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Analog</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\DMA</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Clocks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Interrupts</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\System</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Directives</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.cydwr\Flash Security</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\cyapicallbacks.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\i2cEncoderLibV2.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Header Files\main.h</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files\i2cEncoderLibV2.c</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Source Files\main.c</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Generated_Source</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign\TopDesign.cysch</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\TopDesign\TopDesign.cysch</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Encoder_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Encoder_INT_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\i2cEncoderLibV2.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_Encoders.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCB_IRQ.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Duppa-I2C-basic-with-callbacks.elf</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Duppa-I2C-basic-with-callbacks.hex</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Duppa-I2C-basic-with-callbacks.map</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.gpdsc</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks.rpt</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\Duppa-I2C-basic-with-callbacks_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Cm0Start.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Encoder_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\Encoder_INT_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_I2C_MASTER.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCB_IRQ.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_SCBCLK.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_scl_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\I2C_sda_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\i2cEncoderLibV2.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\isr_Encoders.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_BOOT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_rx_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCB_IRQ.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SCBCLK.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_SPI_UART_INT.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_tx_PM.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART.lst</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\CortexM0\ARM_GCC_541\Debug\Listing Files\UART_UART_BOOT.lst</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\PSoC 4 Architecture TRM</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\PSoC 4200M Family Datasheet</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_boot_v5_80</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_dmac_v1_10</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\cy_isr_v1_70.pdf</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\cy_pins_v2_20.pdf</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\SCB_P4_v4_0</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Duppa-I2C-basic-with-callbacks-000</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\PSoC 4 Architecture TRM</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\PSoC 4200M Family Datasheet</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_boot_v5_80</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_dmac_v1_10</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\cy_isr_v1_70.pdf</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\cy_pins_v2_20.pdf</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\SCB_P4_v4_0</v>
+<v>Duppa-I2C-basic-with-callbacks-000\Duppa-I2C-basic-with-callbacks\SCB_P4_v4_0\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs />
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
